@@ -14,8 +14,8 @@
 *Exploring the intersection of AI agents, warehouse control systems, and intelligent operations*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravishg)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@ravishg)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Ravish.Methil@gmail.com)
+[![Articles](https://img.shields.io/badge/Articles-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravishg/recent-activity/articles/)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ravish.gopinath@gmail.com)
 
 </div>
 
@@ -38,9 +38,9 @@ This GitHub is my proof-of-work layer.
 |------|-----------|--------|
 | [`wcs-ai-routing-sim`](#) | Simulation of AI-assisted conveyor routing decisions vs rule-based WCS | 🟡 In progress |
 | [`dc-ai-use-cases`](#) | Structured analysis of AI/ML use cases in distribution centers, with feasibility scoring | 🟢 Active |
-| [`supply-chain-ai-prompts`](#) | PM-grade prompts for supply chain analysis using Claude & GPT-4 | 🟢 Active |
+| [`supply-chain-ai-prompts`](https://github.com/ravishgm/supply-chain-ai-prompts) | PM-grade prompts for supply chain analysis using Claude & GPT-4 | 🟢 Active |
 | [`ignition-ai-assistant`](#) | MCP server prototype: Claude as an AI assistant for Ignition SCADA systems | 🔵 Prototype |
-| [`ai-pm-frameworks`](#) | Decision frameworks for PMs evaluating AI features in industrial software | 🟢 Active |
+| [`ai-pm-frameworks`](https://github.com/ravishgm/ai-pm-frameworks) | Decision frameworks for PMs evaluating AI features in industrial software | 🟢 Active |
 
 ---
 
@@ -86,7 +86,7 @@ Useful for: AI PMs, supply chain product leaders, and integration engineers eval
 - **Prototypes**: Small working tools built with Python, Claude API, and occasionally Ignition scripting
 - **Frameworks**: PM decision tools — when to build AI features, how to evaluate routing logic, how to spec LLM interfaces for operators
 - **Research notes**: Public analysis of trends at the intersection of AI and material handling
-- **Writing cross-posts**: Companion repos for my LinkedIn Articles and Medium pieces on AI in supply chain
+- **Writing cross-posts**: Companion repos for my LinkedIn Articles and posts on AI in supply chain
 
 ---
 
@@ -96,6 +96,13 @@ Useful for: AI PMs, supply chain product leaders, and integration engineers eval
 - [ ] Benchmark: rule-based routing vs. ML-assisted routing under variable throughput
 - [ ] Operator UX for LLM interfaces: how do you design prompts for shift leads, not data scientists?
 - [ ] AI readiness scoring model for distribution centers
+
+---
+
+## Recent Writing
+
+📝 **[Distribution and warehousing is late to AI. Here's how to use that to your advantage.](https://www.linkedin.com/pulse/distribution-warehousing-late-ai-heres-how-use-your-advantage-methil-b4ede/)** — LinkedIn Article  
+📚 **[All articles →](https://www.linkedin.com/in/ravishg/recent-activity/articles/)**
 
 ---
 
